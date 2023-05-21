@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himalgithub&label=Profile%20views&color=0e75b6&style=flat" alt="himalgithub" /> </p>
 
-- 🌱 I’m currently learning **UI / UX / React Js / SpringBoot**
+- 🌱 I’m currently learning **UI / UX / React Js / Angular/ SpringBoot**
 
-- 💬 Ask me about **html /Css /javascript /Adobe Suite / Figma**
+- 💬 Ask me about **html / CSS / Java / C / Adobe Suite / Figma**
 
 - 📫 How to reach me **himalkavindabusi@gmail.com**
 
